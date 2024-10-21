@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ricky-capg-sample-challenge-2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D7452E-61A4-44DF-AB34-2E971D032DEA}|TestLibrary\\TestLibrary.csproj|c:\\users\\rican\\documents\\projects\\ricky-capg-sampler-challenge\\testlibrary\\samplertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D7452E-61A4-44DF-AB34-2E971D032DEA}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\samplertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}|ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj|C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}|ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj|solutionrelative:ricky-capg-sample-challenge-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}|ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj|C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\sampler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}|ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj|solutionrelative:ricky-capg-sample-challenge-2\\sampler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D7452E-61A4-44DF-AB34-2E971D032DEA}|TestLibrary\\TestLibrary.csproj|c:\\users\\rican\\documents\\projects\\ricky-capg-sampler-challenge\\testlibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}|ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj|c:\\users\\rican\\documents\\projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ricky-capg-sample-challenge-2",
+              "DocumentMoniker": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj",
+              "RelativeDocumentMoniker": "ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj",
+              "ToolTip": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj",
+              "RelativeToolTip": "ricky-capg-sample-challenge-2\\ricky-capg-sample-challenge-2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-21T12:26:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestLibrary",
+              "DocumentMoniker": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\TestLibrary\\TestLibrary.csproj",
+              "RelativeDocumentMoniker": "TestLibrary\\TestLibrary.csproj",
+              "ToolTip": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\TestLibrary\\TestLibrary.csproj",
+              "RelativeToolTip": "TestLibrary\\TestLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-21T12:26:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SamplerTest.cs",
+              "DocumentMoniker": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\TestLibrary\\SamplerTest.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\SamplerTest.cs",
+              "ToolTip": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\TestLibrary\\SamplerTest.cs",
+              "RelativeToolTip": "TestLibrary\\SamplerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:34:07.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\Program.cs",
+              "RelativeDocumentMoniker": "ricky-capg-sample-challenge-2\\Program.cs",
+              "ToolTip": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\Program.cs",
+              "RelativeToolTip": "ricky-capg-sample-challenge-2\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:47:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sampler.cs",
+              "DocumentMoniker": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\Sampler.cs",
+              "RelativeDocumentMoniker": "ricky-capg-sample-challenge-2\\Sampler.cs",
+              "ToolTip": "C:\\Users\\rican\\Documents\\Projects\\ricky-capg-sampler-challenge\\ricky-capg-sample-challenge-2\\Sampler.cs",
+              "RelativeToolTip": "ricky-capg-sample-challenge-2\\Sampler.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:48:28.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

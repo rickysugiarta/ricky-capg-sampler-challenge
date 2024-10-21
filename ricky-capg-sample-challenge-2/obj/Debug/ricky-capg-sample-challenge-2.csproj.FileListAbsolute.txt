@@ -1,0 +1,9 @@
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\bin\Debug\ricky-capg-sample-challenge-2.exe.config
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\bin\Debug\ricky-capg-sample-challenge-2.exe
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\bin\Debug\ricky-capg-sample-challenge-2.pdb
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\bin\Debug\FuzzySharp.dll
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\obj\Debug\ricky-capg-sample-challenge-2.csproj.AssemblyReference.cache
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\obj\Debug\ricky-capg-sample-challenge-2.csproj.CoreCompileInputs.cache
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\obj\Debug\ricky-ca.AC73BD6F.Up2Date
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\obj\Debug\ricky-capg-sample-challenge-2.exe
+C:\Users\rican\Documents\Projects\ricky-capg-sampler-challenge\ricky-capg-sample-challenge-2\obj\Debug\ricky-capg-sample-challenge-2.pdb

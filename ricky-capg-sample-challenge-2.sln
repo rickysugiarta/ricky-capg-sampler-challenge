@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ricky-capg-sample-challenge-2", "ricky-capg-sample-challenge-2\ricky-capg-sample-challenge-2.csproj", "{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{40D7452E-61A4-44DF-AB34-2E971D032DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A285300-CF6C-428C-9B5C-C45BC6FFAF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D7452E-61A4-44DF-AB34-2E971D032DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7452E-61A4-44DF-AB34-2E971D032DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7452E-61A4-44DF-AB34-2E971D032DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7452E-61A4-44DF-AB34-2E971D032DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8BC820-6ADF-45BE-9BBD-82565A101490}
+	EndGlobalSection
+EndGlobal
